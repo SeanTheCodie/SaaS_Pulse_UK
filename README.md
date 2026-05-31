@@ -10,3 +10,6 @@ This service will track the UK's vibrant community of SME businesses building so
 
 # Saas Pulse UK will have these elements
 
+- Track the key financial metrics using data from companie's house
+- Provide 'signals' as this data changes including;
+-   Cfdsfdf
